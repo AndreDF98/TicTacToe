@@ -1,7 +1,7 @@
 # TicTacToe
 Implementação de um jogo da velha em Java
 
-Obs: o código foi escrito em ingles
+Obs: o código foi escrito em inglês
 
 ## Capturas de Tela
 
